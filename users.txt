@@ -1,0 +1,4 @@
+# Format : pseudo:priorite
+admin:0
+prof:1
+eleve:2
